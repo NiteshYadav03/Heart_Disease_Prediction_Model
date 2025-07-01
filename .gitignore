@@ -1,0 +1,19 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data and model files
+*.csv
+*.pkl
+*.h5
+*.pt
+*.model
+
+# Environment
+.env
+venv/
+
+.virtual_documents/
